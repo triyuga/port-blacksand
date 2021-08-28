@@ -1,6 +1,12 @@
-# PORT BLACKSAND 
+# PORT BLACKSAND - A Travelers Guidebook
+### By Humphrey Tortle
 
-### Harbour District 
+![Port Blacksand Map](./images/port-blacksand-map.jpg)
+
+## Harbour District 
+
+![Port Blacksand Harbour District](./images/port-blacksand-map--harbour-district.jpg)
+
 This is the oldest part of Port Blacksand. Its streets are winding and narrow, and its houses look very ancient and weather-beaten. In some streets the upper storeys overhang the road and shut out the daylight. (The district qualifies as 'Poor' when rolling on the Businesses Tables...) 
 
 1. Lobster Wharf. The Catfish Reach is sheltered slightly from the open sea by the northern headland, making a natural harbour. There are always half a dozen or more pirate galleons and galleys at anchor here, except in the summer months, when they will be away, harassing merchant ships in more southerly waters. Trading ships also call in on their way to the open sea or upstream to Fang, Zengis and beyond. Among the most notorious ships that call here are the Black Swan, the Swordfish, the Dancing Dolphin and Lord Azzur's own magnificent Face of Chaos. At the far northern end of Lobster Wharf, where the smaller fishing boats pull in to unload their catches, there stands an immense iron anchor, said to have belonged to a trading galley from ancient Carsepolis. 
