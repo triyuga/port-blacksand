@@ -1,3 +1,53 @@
+# Rules for Boats
+
+## Directions on a Ship
+
+* **Bow:** The bow of a ship is the part of the ship that faces forward when the ship underway. The bow is usually distinguished by a sharply angled hull, which provides less resistance, making it easier for the ship to plow through water.
+
+* **Stern:** The stern is located at the back end of the ship, opposite from the bow.
+
+* **Forward** Forward on a ship means toward the direction of the bow.
+
+* **Aft** Aft on a ship means toward the direction of the stern.
+
+* **Port** Port refers to the left side of the ship, when facing forward.
+
+* **Starboard** Starboard refers to the right side of the ship, when facing forward.
+
+If you're having trouble remembering which side is which, here's an easy trick: The words port and left both have four letters. Just know that the direction only applies when you're facing toward the bow of the ship.
+
+
+## Boat Types
+
+### Canoe
+Vehicle (Water)
+50 gp, 100 lb.
+
+### Rowboat
+Vehicle (Water)
+50 gp, 100 lb.
+
+### Keelboat
+Vehicle (Water)
+3,000 gp
+
+### Longship
+Vehicle (Water)
+10,000 gp
+
+### Sailing Ship
+Vehicle (Water)
+10,000 gp
+
+### Warship
+Vehicle (Water)
+25,000 gp
+
+### Galley
+Vehicle (Water)
+30,000 gp
+
+
 ## Boat Upgrades
 
 #### Ballista
