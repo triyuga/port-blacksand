@@ -59,12 +59,12 @@
     * Tortles have an innate drive and enthusiasm for travel and exploration
     * Was on his way to Blacksand to make money performing in Blacksand during the lead-up to the Great Gladiatorial Gala 
         * Gala put on by the mysterious Pirate King of Port Blacksand, Lord Azzur, in celebration of his marriage to his 3rd wife...
-        * A very glamourous event drawing in tourists, pirates, nobels and adventurers all over the Sea of Fallen Stars
+        * A very glamourous event drawing in tourists, pirates, nobels and adventurers from all over the Sea of Fallen Stars
     * Trip was rudely interrupted when the ship he booked passage on disappeared into a whirlpool
         * Whirlpool was actually a magic portal that teleported the ship into a cavern beneath the Volcano known as Fury Island
-        * There a large tribe of kobolds was running a scheme to teleport in boats, smash them with surprise, cannons and an overwhelming assault... And then collect the treasure ans spoils to offer to the dragon Beatrix... 
+        * There a large tribe of kobolds was running a scheme to teleport in boats, smash them with surprise, cannons and an overwhelming assault... And then collect the treasure and spoils to offer to the dragon Beatrix... 
         * The kobolds worship the evil and arrogant Red Dragon known as Beatrix, who is the Mistress of Fury Island
-        * Thomas was saved from certain death when the party, who were wandering lost inside the volcano, happened upon and then joined the battle!
+        * Thomas was saved from certain death when the party, who were wandering lost inside the volcano, happened upon the scene and then joined the battle!
     * Thomas has been travelling with the party ever since
         * Down a water chute deep into the Underdark...
         * Lost wandering deep caverns, and eventually wandering into mushroom caverns
