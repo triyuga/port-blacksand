@@ -6,9 +6,9 @@
 
 ### As a party...
 * The PCs met on a slave ship, after being individually captured by pirates
-* After a long and arduous voyages in the bowels of the slaving vessel, they were sold as gladiator fodder.
+* After a long and arduous voyage in the bowels of the slaving vessel, they were sold as gladiator fodder.
 * Their bond was formed as they forced to fight as a team in the training arena
-* And then continued to develop as they escape with Onyx and began an adventure as runaways
+* And then continued to develop as they escaped with Onyx and began an adventure as runaways
 
 ### As PCs...
 
@@ -37,6 +37,7 @@
 * Tiefling (taint of infernal bloodlines) Warlock
 * Background
     * "My family is tied to an underworld fiend whom I have turned my back on. I will never go back and will fight for my freedom from the evils of the underworld at any cost..."
+    * Kidnapped and sold into slavery 
 * Motivations
     * Retain his freedom and independence from his family
     * Obtain the perfect weapon to make his "Pact Blade"
@@ -48,7 +49,7 @@
     * Was purchased in the Thay port city of Bezantur, by the Wizard Razzadon (member of AAA Syndicate)
         * Memory was wiped prior to his sale
     * Convinced to elope with the party...
-    * Now a runaway, disguised as a Circus Bear
+    * Now a runaway with the party, disguised as a Circus Bear
 * Motivations
     * Explore the world and collect samples...
     * As a warforged, he has an "unusual" outlook...
