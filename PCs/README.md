@@ -58,7 +58,7 @@
 * Background as Entertainer
     * Tortles have an innate drive and enthusiasm for travel and exploration
     * Was on his way to Blacksand to make money performing in Blacksand during the lead-up to the Great Gladiatorial Gala 
-        * Gala put on by the mysterious Pirate King, Lord Azzur, in celebration of his marriage to his 3rd wife...
+        * Gala put on by the mysterious Pirate King of Port Blacksand, Lord Azzur, in celebration of his marriage to his 3rd wife...
         * A very glamourous event drawing in tourists, pirates, nobels and adventurers all over the Sea of Fallen Stars
     * Trip was rudely interrupted when the ship he booked passage on disappeared into a whirlpool
         * Whirlpool was actually a magic portal that teleported the ship into a cavern beneath the Volcano known as Fury Island
