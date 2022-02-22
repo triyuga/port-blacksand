@@ -61,13 +61,13 @@
         * Gala put on by the mysterious Pirate King of Port Blacksand, Lord Azzur, in celebration of his marriage to his 3rd wife...
         * A very glamourous event drawing in tourists, pirates, nobels and adventurers from all over the Sea of Fallen Stars
     * Trip was rudely interrupted when the ship he booked passage on disappeared into a whirlpool
-        * Whirlpool was actually a magic portal that teleported the ship into a cavern beneath the Volcano known as Fury Island
+        * Whirlpool was actually a magic portal that teleported the ship into a cavern beneath the volcano island known as Fury Mountain
         * There a large tribe of kobolds was running a scheme to teleport in boats, smash them with surprise, cannons and an overwhelming assault... And then collect the treasure and spoils to offer to the dragon Beatrix... 
-        * The kobolds worship the evil and arrogant Red Dragon known as Beatrix, who is the Mistress of Fury Island
+        * The kobolds worship the evil and arrogant Red Dragon known as Beatrix, who is the Mistress of Fury Mountain
         * Thomas was saved from certain death when the party, who were wandering lost inside the volcano, happened upon the scene and then joined the battle!
     * Thomas has been travelling with the party ever since
         * Down a water chute deep into the Underdark...
-        * Lost wandering deep caverns, and eventually wandering into mushroom caverns
+        * Lost wandering in the deep caverns beneath Fury Mountain, and eventually wandering into mushroom caverns
         * Met the reclusive Gnome Wizard, Cheshire ZimbilZombil
         * Escaped Fury Island via Cheshire's gaint Turtle submarine, "The Tortilus"
         * Helped Cheshire infultrate the Deepsea Vault of Golorr, and retrieve the mysterious artefact, "The Stone of Golorr"
