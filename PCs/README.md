@@ -74,7 +74,7 @@
         * Made landfall at the trading outpost known as "Fort Doug"
         * Met the Tortle Travel Writer, Humphery Tortle
         * Party purchased a small boat, and named it "The Implication"
-        * Sailed to Blacksand as free adventures!
+        * Sailed to Blacksand as free adventurers!
             * Fought off multiple pirate attacks
             * Fought off a Giant Sea Snail
             * Met "The Sashimi Hunters", a crew of elite seafood hunters, with a samurai-like code
