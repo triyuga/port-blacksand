@@ -23,7 +23,7 @@
     * Investigate and resist the mysterious rising tide of ancient Necrotic powers in the East...
 
 #### Morze (Keegan)
-* Genasi (half water-genie) rogue
+* Genasi (half water-genie) Rogue
 * Background as Pirate
     * Instigated a mutiny, which failed
     * Thrown overboard and left for dead
