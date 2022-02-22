@@ -39,7 +39,7 @@
     * "My family is tied to an underworld fiend whom I have turned my back on. I will never go back and will fight for my freedom from the evils of the underworld at any cost..."
 * Motivations
     * Retain his freedom and independence from his family
-    * To obtain the perfect weapon to make his "Pact Blade"
+    * Obtain the perfect weapon to make his "Pact Blade"
     * Secretive beyond that...
 
 #### Onyx (Frank)
