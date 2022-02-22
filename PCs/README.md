@@ -62,7 +62,7 @@
         * A very glamourous event drawing in tourists, pirates, nobels and adventurers all over the Sea of Fallen Stars
     * Trip was rudely interrupted when the ship he booked passage on disappeared into a whirlpool
         * Whirlpool was actually a magic portal that teleported the ship into a cavern beneath the Volcano known as Fury Island
-        * Their a large tribe of kolbolds was running a scheme to teleport in boats, smash them with surprise, cannons and an overwhelming assault...
+        * There a large tribe of kolbolds was running a scheme to teleport in boats, smash them with surprise, cannons and an overwhelming assault...
         * The kolbolds worship the evil and arrogant Red Dragon known as Beatrix, who is the Mistress of Fury Island
         * Thomas was saved from certain death when the party, who were wandering lost inside the volcano, happened upon and then joined the battle!
     * Thomas has been travelling with the party ever since
