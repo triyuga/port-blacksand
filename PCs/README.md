@@ -1,6 +1,6 @@
 # "The Prowlers" - D&D Adventuring Party
 
-![The Prowlers](./The-Prowlers.png)
+![The Prowlers](./The-Prowlers.jpg)
 
 ## History and Motivations
 
