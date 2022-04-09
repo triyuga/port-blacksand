@@ -198,3 +198,5 @@ Cost: 15% of base ship cost
 The ship’s bulkheads are modified so that gaps between them can serve as hidden cargo storage areas. This does not change a ship’s cargo
 capacity. A DC 20 Wisdom (Perception) check is required to locate smuggling compartments in a search of the ship. A ship can be fitted with no more than four smuggling compartments.
 Cost: 500 gp per 5-foot-square compartment 
+
+![boat-list](../images/boat-list.jpg)
