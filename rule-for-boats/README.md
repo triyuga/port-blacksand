@@ -22,30 +22,51 @@ If you're having trouble remembering which side is which, here's an easy trick: 
 ### Canoe
 Vehicle (Water)
 50 gp, 100 lb.
+Speed: 1.5 mph
+Carrying Capacity: 3 passengers
+Crew 1, AC 11, HP 50
 
 ### Rowboat
 Vehicle (Water)
 50 gp, 100 lb.
+Speed: 1.5 mph
+Carrying Capacity: 3 passengers
+Crew 1, AC 11, HP 50
 
 ### Keelboat
 Vehicle (Water)
 3,000 gp
+Speed: 1.5 mph
+Carrying Capacity: 1/2 ton cargo, 6 passengers
+Crew 1, AC 15, HP 100, Damage Threshold 10
 
 ### Longship
 Vehicle (Water)
 10,000 gp
+Speed: 3 mph
+Carrying Capacity: 10 tons cargo, 150 passengers
+Crew 40, AC 15, HP 300, Damage Threshold 15
 
 ### Sailing Ship
 Vehicle (Water)
 10,000 gp
+Speed: 2 mph
+Carrying Capacity: 100 tons cargo, 20 passengers
+Crew 20, AC 15, HP 300, Damage Threshold 15
 
 ### Warship
 Vehicle (Water)
 25,000 gp
+Speed: 2.5 mph
+Carrying Capacity: 200 tons cargo, 60 passengers
+Crew 60, AC 15, HP 500, Damage Threshold 20
 
 ### Galley
 Vehicle (Water)
 30,000 gp
+Speed: 4 mph
+Carrying Capacity: 150 tons cargo
+Crew 80, AC 15, HP 500, Damage Threshold 20
 
 
 ## Boat Upgrades
