@@ -246,6 +246,14 @@ Adventuring gear, 1 gp, 5 lb.
 * Potion, very rare, Minor tier, 1350 gp
 * You regain 10d4 + 20 hit points when you drink this potion. The potion's red liquid glimmers when agitated.
 
+### Elixir of Health
+* Potion, rare, Minor tier, 120 gp
+* When you drink this potion, it cures any **disease** afflicting you, and it removes the **blinded**, **deafened**, **paralyzed**, and **poisoned** conditions. The clear red liquid has tiny bubbles of light in it.
+
+### Potion of Vitality
+* Potion, very rare, Minor tier, 960 gp
+* When you drink this potion, it removes any exhaustion you are suffering and cures any disease or poison affecting you. For the next 24 hours, you regain the maximum number of hit points for any Hit Die you spend. The potion's crimson liquid regularly pulses with dull light, calling to mind a heartbeat.
+
 ### Potion of Climbing
 * Potion, common, Minor tier, 180 gp
 * When you drink this potion, you gain a climbing speed equal to your walking speed for 1 hour. During this time, you have advantage on Strength (Athletics) checks you make to climb. The potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.
