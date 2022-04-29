@@ -100,7 +100,7 @@ Adventuring gear, 1 gp, 5 lb.
 * You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.
 * If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.
 
-## Torch
+### Torch
 * Adventuring gear, 1 cp, (100 = 1gp), 1 lb.
 * A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
 
@@ -112,6 +112,9 @@ Adventuring gear, 1 gp, 5 lb.
 * Adventuring gear, 10 gp, 2 lb.
 * A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
 
+### Oil (flask)
+* Adventuring gear, 1 sp, 1 lb.
+* Oil usually comes in a clay flask that holds 1 pint, and is used as fuel for lanterns. For full rules for oil, see listing above in **Adventuring Gear**.
 
 ## Pack Types
 
