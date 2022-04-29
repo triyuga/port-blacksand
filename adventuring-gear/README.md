@@ -30,7 +30,7 @@
 * A climber's kit includes special pitons, boot tips, gloves, and a harness. You can use the climber's kit as an action to anchor yourself; when you do, you can't fall more than 25 feet from the point where you anchored yourself, and you can't climb more than 25 feet away from that point without undoing the anchor.
 
 ### Pitons (20)
-Adventuring gear, 1 gp, 5 lb.
+* Adventuring gear, 1 gp, 5 lb.
 
 ### Iron Spikes (10)
 * Adventuring gear, 1 gp, 5 lb.
@@ -292,7 +292,6 @@ Adventuring gear, 1 gp, 5 lb.
 * Wondrous item, common
 * This hooded lantern burns for 6 hours on 1 pint of oil, shedding bright light in a 30-foot radius and dim light for an additional 30 feet.
 * Each lantern of tracking is designed to track down a certain type of creature, which is determined by rolling on the Lantern of Tracking table. Once determined, this creature type can't be changed. While the lantern is within 300 feet of any creature of that type, its flame turns bright green. The lantern doesn't pinpoint the creature's exact location, however.
-
 * Lantern of Tracking
     1. Aberrations
     2. Celestials
